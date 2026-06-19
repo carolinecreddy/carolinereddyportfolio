@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Caroline Reddy favicon">
+  <rect width="64" height="64" rx="16" fill="#17412f"/>
+  <circle cx="46" cy="18" r="12" fill="#f0b84d"/>
+  <path d="M12 44c8-18 22-28 40-30-2 18-12 32-30 40-4 2-8-2-10-10Z" fill="#c9e6c3"/>
+  <path d="M20 44c8-10 17-17 28-24" fill="none" stroke="#2f6b4f" stroke-width="4" stroke-linecap="round"/>
+  <text x="32" y="39" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff">CR</text>
+</svg>
